@@ -5,7 +5,8 @@ This project is programmed in Flutter.
 ## Getting Started
 
 This project is a Social User Interface with Clippers.
-![Screenshot](Screenshot1.png) . ![Screenshot](Screenshot2.png)
+
+❮img src="Screenshot1.png" height="600" ❯
 
 A few resources to get you started if this is your first Flutter project:
 
