@@ -1,10 +1,9 @@
 # flutter_social_ui
 
-This project is programmed in Flutter.
+This project is programmed in Flutter and comprises a Social User Interface with Clippers.
 
 ## Getting Started
 
-The project comprises a Social User Interface with Clippers.
 **Tools, Plugins and Resorces used to execute completion.**
 ```
     - Colors Pro App (to store and determine colors)
