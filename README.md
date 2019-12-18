@@ -24,7 +24,7 @@ This project is programmed in Flutter and comprises a Social User Interface with
     - Profile Screen
 ```
 
-<img src="screenshots.jpg" height="800">
+<img src="screenshots.jpg" height="500">
 
 **Here are a list of the above resources:**
 
