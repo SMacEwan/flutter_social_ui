@@ -7,6 +7,7 @@ This project is programmed in Flutter.
 The project comprises a Social User Interface with Clippers.
 ```
 Tools and Plugins used to execute completion.
+    - [Colors Pro App](https://colors.moapp.software/)
     - Colors Pro App (to store and determine colors)
     - Sketch App (For layout of Containers and Type)
     - xScope App (To keep UI dimentions accurate to the design)
@@ -29,6 +30,5 @@ Four Screens are provided.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
