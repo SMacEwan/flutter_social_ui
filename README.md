@@ -16,8 +16,8 @@ This project is programmed in Flutter and comprises a Social User Interface with
     - Font Awesome Icons
 ```
 
+**Four Screens are provided.**
 ```
-Four Screens are provided.
     - Login Screen
     - Registration Screen
     - Home Screen
@@ -26,7 +26,7 @@ Four Screens are provided.
 
 <img src="Screenshot1.png" height="600">
 
-Here are a list of the above resorces:
+**Here are a list of the above resorces:**
 
 - [Colors Pro](https://colors.moapp.software)
 - [Sketch](https://www.sketch.com)
