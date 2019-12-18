@@ -1,4 +1,4 @@
-# flutter_social_ui
+# Flutter Social User Interface
 
 This project is programmed in Flutter and comprises a Social User Interface with Clippers.
 
