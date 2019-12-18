@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_social_ui/widgets/curve_clipper.dart';
 import 'package:flutter_social_ui/screens/home_screen.dart';
+import 'package:flutter_social_ui/screens/signup_screen.dart';
 import 'package:flutter_social_ui/constants.dart';
 
 class LoginScreen extends StatefulWidget {
@@ -137,9 +138,11 @@ class _LoginScreenState extends State<LoginScreen> {
                 child: Align(
                   alignment: FractionalOffset.bottomCenter,
                   child: GestureDetector(
-                    onTap: () {
-                      //Segue to Registration Screen...
-                    },
+                    onTap: () => Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) => SignupScreen(),
+                  ),),
                     child: Container(
                       decoration: BoxDecoration(
                         color: Theme.of(context).primaryColor,
