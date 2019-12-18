@@ -4,7 +4,8 @@ This project is programmed in Flutter.
 
 ## Getting Started
 
-This project is a Social User Interface with Clippers.
+The project comprises a Social User Interface with Clippers.
+## Four Screens are provided. - Login, Registration, 
 
 <img src="Screenshot1.png" height="600">
 
