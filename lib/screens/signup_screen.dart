@@ -231,7 +231,7 @@ class _SignupScreenState extends State<SignupScreen> {
                       alignment: Alignment.center,
                       height: 80.0,
                       child: Text(
-                        'Get help to Sign Up to SpookBook!',
+                        'Having trouble registering? Tap Here.',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 16.0,
