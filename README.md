@@ -6,6 +6,18 @@ This project is programmed in Flutter.
 
 The project comprises a Social User Interface with Clippers.
 ```
+Tools and Plugins used to execute completion.
+    - Colors Pro App (to store and determine colors)
+    - Sketch App (For layout of Containers and Type)
+    - xScope App (To keep UI dimentions accurate to the design)
+    - Visual Studio Code (For code editing)
+    - Flutter Plugin for VSCode
+    - Dart Plugin for VSCode
+    - Awesome Flutter Snippets (for the best snippet collection)
+    - Font Awesome Icons
+```
+
+```
 Four Screens are provided.
     - Login Screen
     - Registration Screen
