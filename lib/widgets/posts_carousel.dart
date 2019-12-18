@@ -20,7 +20,7 @@ class PostsCarousel extends StatelessWidget {
             boxShadow: [
               BoxShadow(
                 color: Colors.black26,
-                offset: Offset(0, 2),
+                offset: Offset(0, 3.0),
                 blurRadius: 6.0,
               ),
             ],
