@@ -39,5 +39,5 @@ This project is programmed in Flutter and comprises a Social User Interface with
 * [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 ## Please Fork, Like and Follow:
-### If you would like to add to the project<br />then please make a Push Request. Thanks**
+### If you would like to add to the project<br />then please make a Push Request. Thanks
 
