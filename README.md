@@ -29,7 +29,7 @@ This project is programmed in Flutter and comprises a Social User Interface with
 
 <img src="screenshots.jpg" height="500">
 
-### **Here are a list of the above resources:**
+### **Here are a list of resources that are used:**
 
 * [Colors Pro](https://colors.moapp.software)
 * [Sketch](https://www.sketch.com)
