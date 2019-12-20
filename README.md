@@ -23,6 +23,11 @@ This project is programmed in Flutter and comprises a Social User Interface with
 1. Home Screen
 1. Profile Screen
 1. Help Screen
+1. Chat Screen
+1. Credits Screen
+1. Help Screen
+1. Location/Map Screen
+1. Settings Screen
 1. *(More screens to follow)*
 
 <img src="screenshots.jpg" height="500">

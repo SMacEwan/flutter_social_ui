@@ -84,8 +84,12 @@ class CustomDrawer extends StatelessWidget {
               ),
             ),
           ),
-          _buildDrawerOption(Icon(Icons.chat), 'Chat', () {}),
-          _buildDrawerOption(Icon(Icons.location_on), 'Map', () {}),
+          _buildDrawerOption(Icon(Icons.chat), 'Chat', () {
+            // The Chat Screen
+          }),
+          _buildDrawerOption(Icon(Icons.location_on), 'Map', () {
+            // The Google Map/Location Screen
+          }),
           _buildDrawerOption(
             Icon(Icons.account_circle),
             'Your Profile',
@@ -98,7 +102,15 @@ class CustomDrawer extends StatelessWidget {
               ),
             ),
           ),
-          _buildDrawerOption(Icon(Icons.settings), 'Settings', () {}),
+          _buildDrawerOption(Icon(Icons.settings), 'Settings', () {
+            // The Settings Screen
+          }),
+          _buildDrawerOption(Icon(Icons.help), 'Help', () {
+            // The Help Screen
+          }),
+          _buildDrawerOption(Icon(Icons.people), 'Credits', () {
+            // The Credit List Screen
+          }),
           Expanded(
             child: Align(
               alignment: FractionalOffset.bottomCenter,
