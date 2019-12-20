@@ -28,7 +28,7 @@ This project is programmed in Flutter and comprises a Social User Interface with
 1. Help Screen
 1. Location/Map Screen
 1. Settings Screen
-1. *(More screens to follow)*
+1. *(More screens to follow Soon)*
 
 <img src="screenshots.jpg" height="500">
 
