@@ -25,8 +25,6 @@ This project is programmed in Flutter and comprises a Social User Interface with
 1. Help Screen
 1. *(More screens to follow)*
 
-
-
 <img src="screenshots.jpg" height="500">
 
 ### **Here are a list of resources that are used:**
