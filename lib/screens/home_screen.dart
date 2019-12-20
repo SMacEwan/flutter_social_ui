@@ -21,7 +21,6 @@ class _HomeScreenState extends State<HomeScreen>
     _tabController = TabController(length: 2, vsync: this);
     // _tabController.index;
     _pageController = PageController(initialPage: 0, viewportFraction: 0.8);
-    
   }
 
   @override
@@ -37,13 +36,13 @@ class _HomeScreenState extends State<HomeScreen>
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-                    'SPOOK',
-                    style: kMainLabelTextStyle1,
-                  ),
-                  Text(
-                    'BOOK',
-                    style: kMainLabelTextStyle2,
-                  ),
+              'SPOOK',
+              style: kMainLabelTextStyle1,
+            ),
+            Text(
+              'BOOK',
+              style: kMainLabelTextStyle2,
+            ),
           ],
         ),
         bottom: TabBar(
@@ -69,11 +68,13 @@ class _HomeScreenState extends State<HomeScreen>
       body: ListView(
         children: <Widget>[
           FollowingUsers(),
-          PostsCarousel(pageController: _pageController, title: 'Posts', posts: posts,)
+          PostsCarousel(
+            pageController: _pageController,
+            title: 'Posts',
+            posts: posts,
+          )
         ],
       ),
     );
   }
 }
-
-
