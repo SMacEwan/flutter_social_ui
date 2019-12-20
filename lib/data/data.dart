@@ -21,7 +21,7 @@ final _post1 = Post(
 final _post2 = Post(
   imageUrl: 'assets/images/post2.jpg',
   author: User(),
-  title: 'Post 2',
+  title: 'It\'s Been Broken',
   descript: 'Description',
   likes: 985,
   comments: 213,
@@ -29,7 +29,7 @@ final _post2 = Post(
 final _post3 = Post(
   imageUrl: 'assets/images/post3.jpg',
   author: User(),
-  title: 'Post 3',
+  title: 'We Saw it There!',
   descript: 'Description',
   likes: 402,
   comments: 25,
@@ -37,7 +37,7 @@ final _post3 = Post(
 final _post4 = Post(
   imageUrl: 'assets/images/post4.jpg',
   author: User(),
-  title: 'Post 4',
+  title: 'Can\'t Stand on Ceremony',
   descript: 'Description',
   likes: 628,
   comments: 74,
